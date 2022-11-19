@@ -21,8 +21,12 @@ Technical Architecture:
 
 ![Screenshot (1358)](https://user-images.githubusercontent.com/96964395/202849468-0b4bfe82-22c6-4ea5-9736-322387aa04fe.png)
 
-Website Architecture:
+### Website Architecture:
 
  ![Screenshot (1322)](https://user-images.githubusercontent.com/96964395/202849555-4ad5a8ed-2642-453a-9b65-7b48f74acec8.png)
+ 
+ 
+ ![Screenshot (1323)](https://user-images.githubusercontent.com/96964395/202849614-35d4b2c0-97dc-4c29-a1d2-8fae596d1c33.png)
+
  
  
