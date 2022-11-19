@@ -2,7 +2,8 @@
 ## DemandEst - AI powered Food Demand Forecaster
 
 
-![WhatsApp Image 2022-11-19 at 17 03 24](https://user-images.githubusercontent.com/96964395/202848792-033ef088-8b3f-4729-891a-26b2e5a8af00.jpeg)
+![food platter](https://user-images.githubusercontent.com/96964395/202861182-11f1c39b-716e-4633-9276-f13e76571fcd.jpg)
+
 
 
 ***
